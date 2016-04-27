@@ -1,0 +1,49 @@
+
+form{
+	padding: 10px;
+}
+a{
+	text-decoration: none;
+}
+.kiri{
+	position: absolute;
+	left:40%;
+}
+
+
+.clasik{
+	position: relative;
+	clear: both;
+	width: 200px;
+	border-radius: 15px 0 15px 0;
+}
+
+.btn-kosong{
+	clear: both;
+	width: 200px;
+	color: #FFFFFF;
+	background: linear-gradient(#0B0B0C 5%, #000000 100%);
+	border-radius: 20px 10px 20px 10px;
+	cursor: pointer;
+}
+
+.kosong{
+	width: 200px;
+	height: 25px;
+	font-size: 18px;
+	display: block;
+	border-radius: 20px 0 20px 0;
+}
+
+.besar{
+	font-size: 18px;
+}
+
+.kotak-tengah{
+	width: 400px;
+	padding: 10px;
+	background: #BDBDC0;
+	margin: 100px auto;
+	-moz-border-radius: 40px 0 20px 0;
+	border-radius: 40px 0 40px 0;
+}
